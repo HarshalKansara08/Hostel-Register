@@ -1,0 +1,35 @@
+h3{
+    color: red;
+    font-family: 'Special Elite', cursive;
+}
+
+.formElt
+{   
+    font-family: 'Orbitron', sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+    margin: 20px auto 20px auto;
+    width: 40%;
+}
+
+.sbDiv
+{
+    margin-left: 30%;
+}
+
+
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+  a:active {
+    text-decoration: none;
+  }
